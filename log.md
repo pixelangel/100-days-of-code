@@ -5,7 +5,7 @@
 
 **Today's Progress**: Javascript. Yay!!
 
-**Thoughts:**.
+**Thoughts:**: Javascript is fun but complicated sometimes
 
 **Link to work:** 
 
